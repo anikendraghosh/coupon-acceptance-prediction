@@ -1,5 +1,6 @@
 # coupon-acceptance-prediction
-  Drivers who regularly frequent bars (more than once a month), especially those over the age of 25 and without children as passengers, are significantly more likely to accept bar coupons, indicating that established bar-going habits and a specific adult-oriented social lifestyle are strong predictors of bar coupon acceptance.
+Drivers who regularly frequent bars (more than once a month), especially those over the age of 25 and without children as passengers, are significantly more likely to accept bar coupons, indicating that established bar-going habits and a specific adult-oriented social lifestyle are strong predictors of bar coupon acceptance.
+
 
 Explanation of supporting observations:
   Strongest Driver: Bar Frequency: The most compelling evidence is the dramatic increase in acceptance from 37.07% (3 or fewer visits/month) to 76.88% (more than 3 visits/month). This suggests that people who already incorporate bars into their routine are highly receptive.
